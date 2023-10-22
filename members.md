@@ -1,4 +1,4 @@
 # Project members
 
-* Amarbat
-* Anynom
+* :rocket: Amarbat
+* :whale: Anynom
